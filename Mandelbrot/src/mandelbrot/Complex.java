@@ -11,8 +11,7 @@
 
 package mandelbrot;
 
-class Complex
-{
+class Complex {
     double r;
     double i;
     
